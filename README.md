@@ -1,9 +1,8 @@
-# 👋 Olá! Eu sou Bernardo Alencar
+# 👋 Olá, Sou Bernardo Alencar!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-alencar/)
 [![Behance](https://img.shields.io/badge/-Behance-1769ff?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/bernardoalencar1)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/f.bernardo.09/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/F-Bernardo-09)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=F-Bernardo-09&color=0A66C2&style=flat-square)
 
@@ -29,10 +28,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no **IFPB - Campus Cajaz
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=F-Bernardo-09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-Bernardo-09&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=F-Bernardo-09&theme=tokyonight"/>
 </div>
 
 ## 🎯 Projetos em andamento
