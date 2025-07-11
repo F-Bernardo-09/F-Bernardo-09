@@ -1,0 +1,55 @@
+# 👋 Olá! Eu sou Bernardo Alencar
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-alencar/)
+[![Behance](https://img.shields.io/badge/-Behance-1769ff?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/bernardoalencar1)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/f.bernardo.09/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/F-Bernardo-09)
+
+![Profile Views](https://komarev.com/ghpvc/?username=F-Bernardo-09&color=0A66C2&style=flat-square)
+
+## 👨‍💻 Sobre mim
+
+Estudante de **Análise e Desenvolvimento de Sistemas** no **IFPB - Campus Cajazeiras**, com formação técnica em **Administração**. Atuo como **designer gráfico** na empresa **Solitu (Portugal)** e também como **freelancer**, desenvolvendo soluções criativas e visuais para marcas e projetos digitais.
+
+## 🚀 Experiências
+
+- 🎨 **Designer Freelancer – Solitu - Creative Agency**
+- 🏋️ **Auxiliar – Arena Fitness**
+- 🛒 **Estagiário de Marketing – Supermercado Gonçalves**
+- 💼 **Freelancer** - Identidades Visuais, Social Media, UI/UX Design
+
+## 💻 Tecnologias
+
+**Design & Mídia:** Photoshop, Illustrator, Canva, CapCut, Figma 
+**Programação:** HTML, CSS, JavaScript, Python, C, Node.JS  
+**Ferramentas:** GitHub, VS Code, Notion, Microsoft Teams  
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=F-Bernardo-09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-Bernardo-09&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=F-Bernardo-09&theme=tokyonight"/>
+</div>
+
+## 🎯 Projetos em andamento
+
+- 💼 **Website pessoal** em desenvolvimento
+- 🎬 **Projeto de extensão "Plot Twist Club"** – exibição e discussão de filmes no IFPB
+
+## 🌱 Foco atual
+
+Buscando equilibrar **design** e **programação**, com interesse em UI/UX, desenvolvimento front-end e gestão de projetos. Sempre explorando novas tecnologias e metodologias para criar soluções funcionais e esteticamente agradáveis.
+
+## 🎯 Atividade no GitHub
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=F-Bernardo-09&theme=tokyo-night&hide_border=true"/>
+</div>
+
+---
+
+> *Aberto a colaborações, projetos criativos e oportunidades de aprendizado.*
