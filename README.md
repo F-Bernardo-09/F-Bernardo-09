@@ -1,4 +1,4 @@
-# 👋 Olá, Sou Bernardo Alencar!
+# 👋 Olá, sou Bernardo Alencar!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-alencar/)
 [![Behance](https://img.shields.io/badge/-Behance-1769ff?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/bernardoalencar1)
@@ -13,14 +13,13 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no **IFPB - Campus Cajaz
 ## 🚀 Experiências
 
 - 🎨 **Designer Freelancer – Solitu - Creative Agency**
-- 🏋️ **Auxiliar – Arena Fitness**
-- 🛒 **Estagiário de Marketing – Supermercado Gonçalves**
 - 💼 **Freelancer** - Identidades Visuais, Social Media, UI/UX Design
 
 ## 💻 Tecnologias
 
 **Design & Mídia:** Photoshop, Illustrator, Canva, CapCut, Figma 
-**Programação:** HTML, CSS, JavaScript, Python, C, Node.JS  
+**Programação:** HTML, CSS, JavaScript, Python, C 
+**Estudando:** TypeScript, Node.JS, SQL
 **Ferramentas:** GitHub, VS Code, Notion, Microsoft Teams  
 
 ## 📊 GitHub Stats
@@ -33,7 +32,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no **IFPB - Campus Cajaz
 ## 🎯 Projetos em andamento
 
 - 💼 **Website pessoal** em desenvolvimento
-- 🎬 **Projeto de extensão "Plot Twist Club"** – exibição e discussão de filmes no IFPB
 
 ## 🌱 Foco atual
 
