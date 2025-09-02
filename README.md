@@ -17,10 +17,10 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no **IFPB - Campus Cajaz
 
 ## 💻 Tecnologias
 
-**Design & Mídia:** Photoshop, Illustrator, Canva, CapCut, Figma 
-**Programação:** HTML, CSS, JavaScript, Python, C 
-**Estudando:** TypeScript, Node.JS, SQL
-**Ferramentas:** GitHub, VS Code, Notion, Microsoft Teams  
+- **Design & Mídia:** Photoshop, Illustrator, Canva, CapCut, Figma 
+- **Programação:** HTML, CSS, JavaScript, Python, C 
+- **Estudando:** TypeScript, Node.JS, SQL
+- **Ferramentas:** GitHub, VS Code, Notion, Microsoft Teams  
 
 ## 📊 GitHub Stats
 
