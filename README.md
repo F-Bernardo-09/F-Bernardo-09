@@ -37,12 +37,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no **IFPB - Campus Cajaz
 
 Buscando equilibrar **design** e **programação**, com interesse em UI/UX, desenvolvimento front-end e gestão de projetos. Sempre explorando novas tecnologias e metodologias para criar soluções funcionais e esteticamente agradáveis.
 
-## 🎯 Atividade no GitHub
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=F-Bernardo-09&theme=tokyo-night&hide_border=true"/>
-</div>
-
 ---
 
 > *Aberto a colaborações, projetos criativos e oportunidades de aprendizado.*
