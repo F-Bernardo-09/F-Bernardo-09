@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Estudante de **Análise e Desenvolvimento de Sistemas** no **IFPB - Campus Cajazeiras**, com formação técnica em **Administração**. Atuo como **designer gráfico** na agência **Solitu** e também como **freelancer**, desenvolvendo soluções criativas e visuais para marcas e projetos digitais.
+Estudante de **Análise e Desenvolvimento de Sistemas** no **IFPB - Campus Cajazeiras**, com formação técnica em **Administração**. Atuo como **designer gráfico** na agência **Solitu** e também como **freelancer**, além de estar na **Loopis** como Trainee Comercial, desenvolvendo soluções criativas e visuais para marcas e projetos digitais.
 
 ## 🚀 Experiências
 
