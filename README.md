@@ -13,13 +13,14 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no **IFPB - Campus Cajaz
 ## 🚀 Experiências
 
 - 🎨 **Designer Freelancer – Solitu - Creative Agency**
+- 🎨 **Trainee Consultor Comercial – Loopis**
 - 💼 **Freelancer** - Identidades Visuais, Social Media, UI/UX Design
 
 ## 💻 Tecnologias
 
 - **Design & Mídia:** Photoshop, Illustrator, Canva, CapCut, Figma 
 - **Programação:** HTML, CSS, JavaScript, Python, C 
-- **Estudando:** TypeScript, Node.JS, SQL
+- **Estudando:** TypeScript, Node.JS, SQL, React
 - **Ferramentas:** GitHub, VS Code, Notion, Microsoft Teams  
 
 ## 📊 GitHub Stats
