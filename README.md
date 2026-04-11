@@ -32,7 +32,10 @@ Estudante de **Análise e Desenvolvimento de Sistemas** no **IFPB - Campus Cajaz
 
 ## 🎯 Projetos em andamento
 
-- 💼 **Website pessoal** em desenvolvimento
+- 🌱  **Verde Árido** — Em fase de construção e refinamento.
+- 🛡️ **Guardiões da Bandeira** — Desenvolvimento de mecânicas e conceitos em curso.
+- 💼 **Website pessoal** — Estruturando minha presença digital (breve online).
+
 
 ## 🌱 Foco atual
 
